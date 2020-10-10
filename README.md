@@ -1,1 +1,3 @@
 # UniDestroyEventListener
+
+ゲームオブジェクトが破棄された時にイベントを実行するコンポーネント
