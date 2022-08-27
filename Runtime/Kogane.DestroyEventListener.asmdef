@@ -1,5 +1,5 @@
 ﻿{
-    "name": "UniDestroyEventListener",
+    "name": "Kogane.DestroyEventListener",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
