@@ -26,6 +26,7 @@ namespace Kogane
         private void OnDestroy()
         {
             OnDestroyed?.Invoke();
+            OnDestroyed = null;
         }
     }
 }
